@@ -1,0 +1,89 @@
+{
+  "data": {
+    "councilPresident": [
+      {
+        "councilPerson": "Felicia A. Moore",
+        "contact": "fmoore@atlantaga.gov"
+      }
+    ],
+    "councilAtLarge": [
+      {
+        "councilPerson": "Michael Julian Bond",
+        "post": "1",
+        "contact": "mbond@atlantaga.gov"
+      },
+      {
+        "councilPerson": "Matt Westmoreland",
+        "post": "2",
+        "contact": "mwestmoreland@atlantaga.gov"
+      },
+      {
+        "councilPerson": "Andre Dickens",
+        "post": "3",
+        "contact": "adickens@atlantaga.gov"
+      }
+    ],
+    "councilMembers": [
+      {
+        "councilPerson": "Carla Smith",
+        "contact": "csmith@atlantaga.gov",
+        "district": "1"
+      },
+      {
+        "councilPerson": "Amir R. Farokhi",
+        "contact": "arfarokhi@atlantaga.gov",
+        "district": "2"
+      },
+      {
+        "councilPerson": "Antonio Brown",
+        "contact": "",
+        "district": "3"
+      },
+      {
+        "councilPerson": "Cleta Winslow",
+        "contact": "cwinslow@atlantaga.gov",
+        "district": "4"
+      },
+      {
+        "councilPerson": "Natalyn Archibong",
+        "contact": "narchibong@atlantaga.gov",
+        "district": "5"
+      },
+      {
+        "councilPerson": "Jennifer N. Ide",
+        "contact": "jnide@atlantaga.gov",
+        "district": "6"
+      },
+      {
+        "councilPerson": "Howard Shook",
+        "contact": "hshook@atlantaga.gov",
+        "district": "7"
+      },
+      {
+        "councilPerson": "J.P. Matzigkeit",
+        "contact": "jpmatzigkeit@atlantaga.gov",
+        "district": "8"
+      },
+      {
+        "councilPerson": "Dustin Hillis",
+        "contact": "drhillis@atlantaga.gov",
+        "district": "9"
+      },
+      {
+        "councilPerson": "Andrea L. Boone",
+        "contact": "aboone@atlantaga.gov",
+        "district": "10"
+      },
+      {
+        "councilPerson": "Marci Collier Overstreet",
+        "contact": "mcoverstreet@atlantaga.gov",
+        "district": "11"
+      },
+      {
+        "councilPerson": "Joyce Shepherd",
+        "contact": "jmsheperd@atlantaga.gov",
+        "district": "12"
+      }
+    ]
+  }
+}
