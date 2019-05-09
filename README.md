@@ -4,10 +4,10 @@ Here is a JSON file that lists all of the neighborhoods in Atlanta, GA. The info
 
 I will do my best to update this information based on any new elections or other updatable criteria.
 
-##Reporting Issues
+## Reporting Issues
 
 Please report issues using the Issues tab at the top of this page.
 
-##License
+## License
 
 MIT - see LICENSE
