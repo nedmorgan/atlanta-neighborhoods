@@ -3,85 +3,133 @@
     "councilPresident": [
       {
         "councilPerson": "Felicia A. Moore",
-        "contact": "fmoore@atlantaga.gov"
+        "contact": {
+          "email": "fmoore@atlantaga.gov",
+          "phone": "404-330-6053"
+        }
       }
     ],
     "councilAtLarge": [
       {
         "councilPerson": "Michael Julian Bond",
         "post": "1",
-        "contact": "mbond@atlantaga.gov"
+        "contact": {
+          "email": "mbond@atlantaga.gov",
+          "phone": "404-330-6770"
+        }
       },
       {
         "councilPerson": "Matt Westmoreland",
         "post": "2",
-        "contact": "mwestmoreland@atlantaga.gov"
+        "contact": {
+          "email": "mwestmoreland@atlantaga.gov",
+          "phone": "404-330-6302"
+        }
       },
       {
         "councilPerson": "Andre Dickens",
         "post": "3",
-        "contact": "adickens@atlantaga.gov"
+        "contact": {
+          "email": "adickens@atlantaga.gov",
+          "phone": "404-330-6041"
+        }
       }
     ],
     "councilMembers": [
       {
         "councilPerson": "Carla Smith",
-        "contact": "csmith@atlantaga.gov",
+        "contact": {
+          "email": "csmith@atlantaga.gov",
+          "phone": "404-330-6039"
+        },
         "district": "1"
       },
       {
         "councilPerson": "Amir R. Farokhi",
-        "contact": "arfarokhi@atlantaga.gov",
+        "contact": {
+          "email": "arfarokhi@atlantaga.gov",
+          "phone": "404-330-6038"
+        },
         "district": "2"
       },
       {
         "councilPerson": "Antonio Brown",
-        "contact": "",
+        "contact": {
+          "email": "",
+          "phone": "404-330-6046"
+        },
         "district": "3"
       },
       {
         "councilPerson": "Cleta Winslow",
-        "contact": "cwinslow@atlantaga.gov",
+        "contact": {
+          "email": "cwinslow@atlantaga.gov",
+          "phone": "404-330-6047"
+        },
         "district": "4"
       },
       {
         "councilPerson": "Natalyn Archibong",
-        "contact": "narchibong@atlantaga.gov",
+        "contact": {
+          "email": "narchibong@atlantaga.gov",
+          "phone": "404-330-6048"
+        },
         "district": "5"
       },
       {
         "councilPerson": "Jennifer N. Ide",
-        "contact": "jnide@atlantaga.gov",
+        "contact": {
+          "email": "jnide@atlantaga.gov",
+          "phone": "404-330-6049"
+        },
         "district": "6"
       },
       {
         "councilPerson": "Howard Shook",
-        "contact": "hshook@atlantaga.gov",
+        "contact": {
+          "email": "hshook@atlantaga.gov",
+          "phone": "404-330-6050"
+        },
         "district": "7"
       },
       {
         "councilPerson": "J.P. Matzigkeit",
-        "contact": "jpmatzigkeit@atlantaga.gov",
+        "contact": {
+          "email": "jpmatzigkeit@atlantaga.gov",
+          "phone": "404-330-6051"
+        },
         "district": "8"
       },
       {
         "councilPerson": "Dustin Hillis",
-        "contact": "drhillis@atlantaga.gov",
+        "contact": {
+          "email": "drhillis@atlantaga.gov",
+          "phone": "404-330-6044"
+        },
         "district": "9"
       },
       {
         "councilPerson": "Andrea L. Boone",
-        "contact": "aboone@atlantaga.gov",
+        "contact": {
+          "email": "aboone@atlantaga.gov",
+          "phone": "404-330-6055"
+        },
         "district": "10"
       },
       {
         "councilPerson": "Marci Collier Overstreet",
-        "contact": "mcoverstreet@atlantaga.gov",
+        "contact": {
+          "email": "mcoverstreet@atlantaga.gov",
+          "phone": "404-330-6054"
+        },
         "district": "11"
       },
       {
         "councilPerson": "Joyce Shepherd",
-        "contact": "jmsheperd@atlantaga.gov",
+        "contact": {
+          "email": "jmsheperd@atlantaga.gov",
+          "phone": "404-330-6053"
+        },
         "district": "12"
       }
     ]
